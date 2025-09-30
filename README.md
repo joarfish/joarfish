@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer focussing on real-time 3D graphics on the web and native. Professionally I mainly work, with Three.Js / WebGL and React but have a great interest in WebGPU, Rust, and C++.
+I'm a software developer focussing on real-time 3D graphics on the web and native. Professionally I mainly work with Three.Js / WebGL and React but have a great interest in WebGPU, Rust, and C++.
 
 ### Some prototypes and personal projects
 
