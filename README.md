@@ -7,6 +7,7 @@ I'm a software developer focussing on real-time 3D graphics on the web and nativ
 - [Compute-shader based 3D CFD simulation in godot](https://github.com/joarfish/godot_force_field)
 - Chrome extension for investigating Three.Js scenes: [Threespector](https://github.com/joarfish/threespector)
 - [Bevy Orbit Controls](https://github.com/joarfish/bevy_orbit_controls)
+- [Experiment](https://github.com/joarfish/sdfun) with Signed Distance Functions
 - Simple prototype of bringing node based workflows to 2D vector graphics: [Hardeen](https://github.com/joarfish/hardeen)
 - webgpu-rs based [renderer](https://github.com/joarfish/cells)
 
