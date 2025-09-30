@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a software developer focussing on real-time 3D graphics on the web and native. Professionally I mainly work, with Three.Js / WebGL and React but have a great interest in WebGPU, Rust, and C++.
+
+### Some prototypes and personal projects
+
+- [Compute-shader based 3D CFD simulation in godot](https://github.com/joarfish/godot_force_field)
+- Chrome extension for investigating Three.Js scenes: [Threespector](https://github.com/joarfish/threespector)
+- [Bevy Orbit Controls](https://github.com/joarfish/bevy_orbit_controls)
+- Simple prototype of bringing node based workflows to 2D vector graphics: [Hardeen](https://github.com/joarfish/hardeen)
+- webgpu-rs based [renderer](https://github.com/joarfish/cells)
+
 <!--
 **joarfish/joarfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
